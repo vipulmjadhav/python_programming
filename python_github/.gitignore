@@ -1,1 +1,3 @@
-__pycache__
+#ignore folder name __pycache__
+
+__pycache__/
