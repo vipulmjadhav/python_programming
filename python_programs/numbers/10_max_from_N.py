@@ -1,6 +1,7 @@
+import sys
 cnt = int(input("numbers to enter:"))
 
-max = 0
+max = -sys.maxsize-1
 num = 0
 
 for i in range(cnt):
@@ -10,4 +11,3 @@ for i in range(cnt):
 
 print("maximum is : ",max)	
 			
-
