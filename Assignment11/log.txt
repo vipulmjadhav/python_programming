@@ -1,0 +1,8 @@
+removed /home/vipul/Python_All/Assignment11/hello/abc/vipul.txt
+removed /home/vipul/Python_All/Assignment11/hello/abc/xyz/vipul.txt
+
+----------
+removed /home/vipul/Python_All/Assignment11/hello/abc/hello2.txt
+removed /home/vipul/Python_All/Assignment11/hello/abc/xyz/hello2.txt
+
+----------
